@@ -1,0 +1,22 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	position: relative;
+	width: 100vw;
+	height: 100vh;
+	overflow: hidden;
+	background-color: #1e1e1e;
+	display: flex;
+	justify-content: center;
+}
+
+.container {
+	position: absolute;
+	width: 80vw;
+	min-height: 500px;
+	background-color: aliceblue;
+}
